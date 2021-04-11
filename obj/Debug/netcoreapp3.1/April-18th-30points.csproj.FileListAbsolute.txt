@@ -1,0 +1,12 @@
+/Users/andrewbacon/Projects/April-18th-30points/April-18th-30points/obj/Debug/netcoreapp3.1/April-18th-30points.csprojAssemblyReference.cache
+/Users/andrewbacon/Projects/April-18th-30points/April-18th-30points/obj/Debug/netcoreapp3.1/April-18th-30points.AssemblyInfoInputs.cache
+/Users/andrewbacon/Projects/April-18th-30points/April-18th-30points/obj/Debug/netcoreapp3.1/April-18th-30points.AssemblyInfo.cs
+/Users/andrewbacon/Projects/April-18th-30points/April-18th-30points/obj/Debug/netcoreapp3.1/April-18th-30points.csproj.CoreCompileInputs.cache
+/Users/andrewbacon/Projects/April-18th-30points/April-18th-30points/bin/Debug/netcoreapp3.1/April-18th-30points.deps.json
+/Users/andrewbacon/Projects/April-18th-30points/April-18th-30points/bin/Debug/netcoreapp3.1/April-18th-30points.runtimeconfig.json
+/Users/andrewbacon/Projects/April-18th-30points/April-18th-30points/bin/Debug/netcoreapp3.1/April-18th-30points.runtimeconfig.dev.json
+/Users/andrewbacon/Projects/April-18th-30points/April-18th-30points/bin/Debug/netcoreapp3.1/April-18th-30points.dll
+/Users/andrewbacon/Projects/April-18th-30points/April-18th-30points/bin/Debug/netcoreapp3.1/April-18th-30points.pdb
+/Users/andrewbacon/Projects/April-18th-30points/April-18th-30points/obj/Debug/netcoreapp3.1/April-18th-30points.dll
+/Users/andrewbacon/Projects/April-18th-30points/April-18th-30points/obj/Debug/netcoreapp3.1/April-18th-30points.pdb
+/Users/andrewbacon/Projects/April-18th-30points/April-18th-30points/obj/Debug/netcoreapp3.1/April-18th-30points.genruntimeconfig.cache
