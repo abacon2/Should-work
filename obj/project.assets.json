@@ -8,20 +8,27 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\andre\\.nuget\\packages\\": {}
+    "C:\\Users\\MARKMCFADDEN\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\iCloudDrive\\April-18th-30points\\April-18th-30points.csproj",
+      "projectUniqueName": "C:\\Users\\MARKMCFADDEN\\Source\\Repos\\NKU\\Should-work\\April-18th-30points.csproj",
       "projectName": "April-18th-30points",
-      "projectPath": "C:\\Users\\andre\\iCloudDrive\\April-18th-30points\\April-18th-30points.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\iCloudDrive\\April-18th-30points\\obj\\",
+      "projectPath": "C:\\Users\\MARKMCFADDEN\\Source\\Repos\\NKU\\Should-work\\April-18th-30points.csproj",
+      "packagesPath": "C:\\Users\\MARKMCFADDEN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MARKMCFADDEN\\Source\\Repos\\NKU\\Should-work\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\MARKMCFADDEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
