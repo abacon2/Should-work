@@ -97,6 +97,9 @@ class MattedPhoto : Photo
 {
     //code this
     double mattedPremium = 10;
+    //The MattedPhoto class includes a string field named Color to hold a color....
+    //HINT: set a Color auto-implemented property
+    //As per the hint, set a Color as an auto-implemented property and not with user input
     string color = ReadLine();
     public override string ToString()
     { 
@@ -113,6 +116,8 @@ class FramedPhoto : Photo
 {
     //code this
     double FramedPremium = 25;
+    //HINT: set a Material and Style auto-implemented properties
+    //As per the hint, set the Material and Style as an auto-implemented property and not with user input
     string material = ReadLine();
     string style = ReadLine();
     public override string ToString()
